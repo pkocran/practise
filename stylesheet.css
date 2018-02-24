@@ -1,0 +1,45 @@
+/* General Styling for the body element*/
+#main{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: aquamarine;
+    font-size: 20px;
+    border: 0;
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Styling Id elements */
+#header{
+    text-align: center;
+    border: 2px groove black;
+    background-color: cadetblue
+}
+#menu{
+    border: 2px groove black;
+    background-color: bisque;
+    padding: 1px;
+}
+#mainBody{
+    border: 2px groove black;
+    background-color:rgb(124, 248, 232);
+    padding: 2px;
+}
+#footer{
+    border: 2px groove black;
+    background-color:rgb(124, 248, 232);
+    padding: 2px;
+}
+
+a{
+    text-decoration: none;
+    list-style:none;
+}
+li{
+    display: inline;
+    font-size: 150%;
+}
+ul{
+    padding-top: 3px;
+}
